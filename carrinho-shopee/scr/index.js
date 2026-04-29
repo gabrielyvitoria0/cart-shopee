@@ -1,3 +1,4 @@
+import * cartService from './services/item.js'
 import createItem from "./services/item.js";
 
 const cart = []
